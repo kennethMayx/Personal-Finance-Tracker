@@ -1,4 +1,4 @@
-// Make sure you have the System.Data.SQLite package installed
+
 using System;
 using System.Collections.Generic;
 using System.Data.SQLite;
